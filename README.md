@@ -1,6 +1,6 @@
-#Learning
+## Learning
 
-##Video 
+### Video 
 
 Trading Systems Supremacy
 
